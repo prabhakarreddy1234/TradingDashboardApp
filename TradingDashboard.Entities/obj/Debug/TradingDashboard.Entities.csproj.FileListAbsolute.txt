@@ -1,0 +1,4 @@
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashboard.Entities\bin\Debug\TradingDashboard.Entities.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashboard.Entities\bin\Debug\TradingDashboard.Entities.pdb
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashboard.Entities\obj\Debug\TradingDashboard.Entities.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashboard.Entities\obj\Debug\TradingDashboard.Entities.pdb

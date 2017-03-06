@@ -1,0 +1,17 @@
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\TradingDashborad.Data.dll.config
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\TradingDashborad.Data.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\TradingDashborad.Data.pdb
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\EntityFramework.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\TradingDashboard.Entities.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\TradingDashboard.Entities.pdb
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\EntityFramework.xml
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\obj\Debug\TradingDashborad.Data.csprojResolveAssemblyReference.cache
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\obj\Debug\TradingDashborad.Data.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\obj\Debug\TradingDashborad.Data.pdb
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\Marvin.JsonPatch.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\bin\Debug\Newtonsoft.Json.xml
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\obj\Debug\TradingDashborad.Data.Migrations.Initial.resources
+c:\users\venkata.dorisala\documents\visual studio 2015\Projects\TradingDashboard.WebAPI\TradingDashborad.Data\obj\Debug\TradingDashborad.Data.csproj.GenerateResource.Cache

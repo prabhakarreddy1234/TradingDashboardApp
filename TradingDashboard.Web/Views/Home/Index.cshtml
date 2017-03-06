@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+}
+<!doctype html>
+<html ng-app="TradingDashboardApp">
+<head>
+    <title>@ViewBag.Title</title>
+    @*@Styles.Render("~/bundles/mini-spa/style")*@
+    @Scripts.Render("~/bundles/mini-spa/script")
+    <script src="https://cdn.rawgit.com/angular-ui/bower-ui-grid/master/ui-grid.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/angular-ui/bower-ui-grid/master/ui-grid.min.css" type="text/css">
+</head>
+
+<body class="fluid-container">
+    <div ng-view></div>
+</body>
+</html>
