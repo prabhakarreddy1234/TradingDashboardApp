@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingDashborad.Data", "Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingDashboard.Web", "TradingDashboard.Web\TradingDashboard.Web.csproj", "{F77917D1-2D54-43F7-A084-D63CC6F5A39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingDashboard.WebAPI", "TradingDashboard.WebAPI.SelfHost\TradingDashboard.WebAPI.csproj", "{61829247-EAA9-4160-BCDD-C9EA859F36AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingDashboard.WebAPI", "TradingDashboard.WebAPI\TradingDashboard.WebAPI.csproj", "{61829247-EAA9-4160-BCDD-C9EA859F36AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
